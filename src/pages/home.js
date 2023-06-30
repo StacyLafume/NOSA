@@ -4,7 +4,7 @@ import parse from 'html-react-parser';
 // import "../missio-html/template/missio/style/css/plugins.css"
 import "../missio-html/template/missio/style/revolution/css/settings.css"
 import "../missio-html/template/missio/style.css"
-import "../missio-html/template/missio/style/images/art/about4.jpg"
+import "../missio-html/template/missio/style/images/dummy.png"
 
 const html =`
   <div class="content-wrapper">
